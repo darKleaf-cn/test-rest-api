@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T11:18:10.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.9" etag="H9pXDS_1DmjwrplE9hh4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T11:24:02.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="a5sjrnOkkd9i9IS9-D-R" version="21.6.9" type="github">
   <diagram name="第 1 页" id="-1_aYlV6JSasWAmnzmtT">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxyppoyk8rkWEEHcyw-h-1" target="fxyppoyk8rkWEEHcyw-h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-1" value="enter the system" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxyppoyk8rkWEEHcyw-h-2" target="fxyppoyk8rkWEEHcyw-h-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-2" value="user login or tourist login&lt;br&gt;&lt;font color=&quot;#6666ff&quot;&gt;user module&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268.75" y="260" width="232.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fxyppoyk8rkWEEHcyw-h-3" target="fxyppoyk8rkWEEHcyw-h-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-3" value="open or create a project&lt;br&gt;&lt;font color=&quot;#6666ff&quot;&gt;project module&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fxyppoyk8rkWEEHcyw-h-6" target="fxyppoyk8rkWEEHcyw-h-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-6" value="&amp;nbsp;enter default function or create a function&lt;br&gt;&lt;font color=&quot;#6666ff&quot;&gt;function module&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="530" width="295" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fxyppoyk8rkWEEHcyw-h-8" target="fxyppoyk8rkWEEHcyw-h-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-8" value="add pins&lt;br&gt;&lt;font color=&quot;#6666ff&quot;&gt;pins module&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="670" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxyppoyk8rkWEEHcyw-h-10" target="fxyppoyk8rkWEEHcyw-h-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-10" value="manage configuration&lt;br&gt;&lt;font color=&quot;#6666ff&quot;&gt;GPIOM and TRGM module&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="670" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxyppoyk8rkWEEHcyw-h-12" value="code preview" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
